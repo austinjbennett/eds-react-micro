@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/eds-react-micro/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/eds-react-micro/"
   ]
 }
